@@ -527,13 +527,13 @@ header .row .flex .btn {
     padding: 25px 0 5px;
   }
   .wrap-2 .container .col-5 {
-    padding: 90px 2rem 120px;
+    padding: 70px 2rem 70px;
   }
   .wrap-4 {
-    padding: 90px 0 0;
+    padding: 40px 0 0;
   }
   .wrap-5 {
-    padding: 70px 0;
+    padding: 40px 0;
   }
 }
 @media screen and (max-width: 321px) {
